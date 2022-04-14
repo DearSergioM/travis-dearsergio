@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/DearSergioM/travis-dearsergio.svg?branch=main)](https://app.travis-ci.com/DearSergioM/travis-dearsergio)
 # Django-and-Django-REST-Framework
 
 ## Setup
